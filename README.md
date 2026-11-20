@@ -129,7 +129,7 @@ Analyses customer segmentation, returning customers, repeat purchase rate, custo
 
 Provides insights into product categories, product revenue, units sold and seller performance.
 
-![Product and Seller Intelligence](screenshots/03_Product_Seller_Intelligence.png)
+![Product and Seller Intelligence](./screenshots/03_Product_Seller_Intelligence.png)
 
 ### 4. Delivery Intelligence
 
