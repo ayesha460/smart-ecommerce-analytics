@@ -64,7 +64,7 @@ The project follows the Medallion Architecture.
 
 ```mermaid
 flowchart TD
-    A["Olist E-Commerce CSV Dataset"] --> B["Databricks Data Ingestion"]
+    A["Olist Dataset"] --> B["Databricks"]
     B --> C["Bronze Layer"]
     C --> D["Silver Layer"]
     D --> E["Gold Layer"]
@@ -73,8 +73,6 @@ flowchart TD
     F --> H["Customer Intelligence"]
     F --> I["Product & Seller Intelligence"]
     F --> J["Delivery Intelligence"]
-```
-
 ### 1. Bronze Layer
 
 - Ingests the original CSV datasets.
@@ -200,20 +198,16 @@ Additional Gold validation screenshots are also available in the screenshots fol
 - Integrate external data sources for deeper business insights.
 - Enhance automated monitoring and pipeline alerting.
 
+```markdown
 ## 👥 Project Information
 
-**Project Title:** Smart E-Commerce Analytics: An End-to-End Data Engineering Pipeline for Customer Behaviour, Sales Intelligence and Delivery Performance
+**Project Title:** Smart E-Commerce Analytics
 
 **Project Domain:** Big Data Analytics and Business Intelligence
 
 **Team Size:** 4 Members
-## 👥 Team Members
 
-**Project Title:** Smart E-Commerce Analytics: An End-to-End Data Engineering Pipeline for Customer Behaviour, Sales Intelligence and Delivery Performance
-
-**Project Domain:** Big Data Analytics and Business Intelligence
-
-**Team Size:** 4 Members
+### Team Members
 
 | S. No. | Team Member Name | Roll Number |
 |---:|---|---|
@@ -223,9 +217,6 @@ Additional Gold validation screenshots are also available in the screenshots fol
 | 4 | Khyati Arora | 2401730142 |
 
 **Academic Project:** Capstone Project
-
-**Academic Project:** Capstone Project
-
 ## 📚 References
 
 - [Brazilian E-Commerce Public Dataset by Olist – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
