@@ -206,7 +206,23 @@ Additional Gold validation screenshots are also available in the screenshots fol
 
 **Project Domain:** Big Data Analytics and Business Intelligence
 
-**Team Size:** 3 Members
+**Team Size:** 4 Members
+## 👥 Team Members
+
+**Project Title:** Smart E-Commerce Analytics: An End-to-End Data Engineering Pipeline for Customer Behaviour, Sales Intelligence and Delivery Performance
+
+**Project Domain:** Big Data Analytics and Business Intelligence
+
+**Team Size:** 4 Members
+
+| S. No. | Team Member Name | Roll Number |
+|---:|---|---|
+| 1 | Ayesha | 2401730111 |
+| 2 | Priya Darshni Sinha | 2401730123 |
+| 3 | Smruthi Jha | 2401730081 |
+| 4 | Khyati Arora | 2401730142 |
+
+**Academic Project:** Capstone Project
 
 **Academic Project:** Capstone Project
 
